@@ -17,5 +17,7 @@ include "includes/headers.php"
         echo '<h1>My name is: '.$name.'</h1>';
         echo '<h1>My age is: '.$age.'</h1>';
     ?>
-    <button type="button" class="btn btn-dark">CLICK ME!</button><br>
-  <?php require "includes/footer.php"?>;
+    <button type="button" class="btn btn-dark">HMM!</button>
+    <button type="button" class="btn btn-primary">ACCHA!</button>
+    <button type="button" class="btn btn-success">THIK HAI!</button><br>
+  <?php require "includes/footer.php"?>;    
