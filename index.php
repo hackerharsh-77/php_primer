@@ -19,5 +19,6 @@ include "includes/headers.php"
     ?>
     <button type="button" class="btn btn-dark">HMM!</button>
     <button type="button" class="btn btn-primary">ACCHA!</button>
-    <button type="button" class="btn btn-success">THIK HAI!</button><br>
+    <button type="button" class="btn btn-success">THIK HAI!</button>
+    <a href="https://www.heroku.com" target="blank" class="btn btn-danger" > heroku.com</a><br>
   <?php require "includes/footer.php"?>;    
